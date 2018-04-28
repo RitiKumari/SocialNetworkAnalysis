@@ -1,3 +1,15 @@
+
+######################################
+## Author:   Riti Kumari (sinhariti61@gmail.com)
+## Date:     2018-02-13
+## Title:    Socail Network Analysis 
+## Purpose:  Analysis of EU Employee datasets
+#            Analysis & visualization of employee and department level interaction 
+#            Visualization of the degree centrality , in-degree, out-degree and betweeness
+#            Depiction of the important persons of the organisation
+#            Analysis of the horizaontality of the organization
+######################################
+
 library(shiny)
 library(igraph)
 library(networkD3)
